@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChVMKiran/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ChVMKiran/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ChVMKiran/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChVMKiran/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ChVMKiran/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ChVMKiran/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
