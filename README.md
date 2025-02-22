@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/ChVMKiran/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
