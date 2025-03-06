@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/ChVMKiran/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ChVMKiran/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ChVMKiran/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ChVMKiran/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Data Stream
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ChVMKiran/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
