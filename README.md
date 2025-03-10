@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ChVMKiran/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/ChVMKiran/LeetCode/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVMKiran/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVMKiran/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3483-alternating-groups-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
