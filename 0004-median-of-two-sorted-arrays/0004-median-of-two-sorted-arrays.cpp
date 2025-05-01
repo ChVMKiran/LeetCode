@@ -5,7 +5,6 @@ public:
         if(n1 > n2) return findMedianSortedArrays(nums2, nums1);
         while(l <= h) {
             int m1 = (l + h) >> 1, m2 = ((n1 + n2 + 1) >> 1) - m1;
-            cout<<m2;
             int l1 = INT_MIN, l2 = INT_MIN;
             int r1 = INT_MAX, r2 = INT_MAX;
             if(m1 > 0) l1 = nums1[m1 - 1];
