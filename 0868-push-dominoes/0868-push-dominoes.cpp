@@ -32,7 +32,7 @@ public:
                         // cout<<0;
                         ans[j++] = 'R';
                     }
-                    // cout<<ans<<'\n';
+                    cout<<ans<<'\n';
                 }
                 else {
                     int len = (lastLeft - i - 1) / 2;
