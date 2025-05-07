@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ChVMKiran/LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChVMKiran/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
