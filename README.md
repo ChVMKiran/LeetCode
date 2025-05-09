@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0967-minimum-falling-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1043-grid-illumination](https://github.com/ChVMKiran/LeetCode/tree/master/1043-grid-illumination) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVMKiran/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ChVMKiran/LeetCode/tree/master/0120-triangle) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
