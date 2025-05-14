@@ -1,42 +1,23 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        string res;
-        vector<int> uppers(26), lowers(26);
-        int m = s.size(), n = t.size(), st = 0;
+        int m = s.size(), n = t.size(), startInd = 0, minLen = INT_MAX, left = 0, rqrd = n;
+        vector<int> mpp(58);
         for(int i = 0; i < n; i++) {
-            if(t[i] <= 'Z') uppers[t[i] - 'A']++;
-            else lowers[t[i] - 'a']++;
+            mpp[t[i] - 'A']++;
         }
-        for(int i = 0; i < m; i++) {
-            if(s[i] <= 'Z') uppers[s[i] - 'A']--;
-            else lowers[s[i] - 'a']--;
-            bool flag = true;
-            for(int j = 0; j < 26; j++) {
-                if(uppers[j] > 0 || lowers[j] > 0) {
-                    flag = false;
-                    break;
+        for(int right = 0; right < m; right++) {
+            if(mpp[s[right] - 'A']-- > 0) rqrd--;
+            while(!rqrd) {
+                // cout<<right;
+                if(minLen > right - left + 1) {
+                    minLen = right - left + 1;
+                    startInd = left;
                 }
-            }
-            if(flag) {
-                // cout<<res;
-                int k = st;
-                while(st <= i) {
-                    if(s[st] <= 'Z'){
-                        if(!uppers[s[st] - 'A']) break;
-                        uppers[s[st] - 'A']++;
-                    }
-                    else {
-                        if(!lowers[s[st] - 'a']) break;
-                        lowers[s[st] - 'a']++;
-                    }
-                    st++;
-                }
-                if(!res.size() || res.size() > i - st + 1)
-                    res = s.substr(st, i - st + 1);
+                if(mpp[s[left++] - 'A']++ == 0) rqrd++;
             }
         }
-        // cout<<st;
-        return res;
+        // cout<<startInd;
+        return minLen == INT_MAX ? "" : s.substr(startInd, minLen);
     }
 };
