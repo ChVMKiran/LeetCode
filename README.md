@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVMKiran/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/ChVMKiran/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ChVMKiran/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/ChVMKiran/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Tree
 |  |
 | ------- |
