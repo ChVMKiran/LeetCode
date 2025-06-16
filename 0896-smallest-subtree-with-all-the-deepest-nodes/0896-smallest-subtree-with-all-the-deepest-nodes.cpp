@@ -1,21 +1,20 @@
 class Solution {
-private:
-    int getHeight(TreeNode* root) {
+    int getDepth(TreeNode* root) {
         if(!root) return 0;
-        return 1 + max(getHeight(root -> left), getHeight(root->right));
+        return 1 + max(getDepth(root -> left), getDepth(root -> right));
     }
 
-    TreeNode* answer(TreeNode* root, int currDepth, int maxDepth) {
+    TreeNode* helper(TreeNode* root, int currDepth, int maxDepth) {
         if(!root || currDepth == maxDepth) return root;
-        TreeNode* left = answer(root -> left, currDepth + 1, maxDepth);
-        TreeNode* right = answer(root -> right, currDepth + 1, maxDepth);
+        TreeNode* left = helper(root -> left, currDepth + 1, maxDepth);
+        TreeNode* right = helper(root -> right, currDepth + 1, maxDepth);
         if(left && right) return root;
         return left ? left : right;
     }
 
 public:
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        int maxDepth = getHeight(root);
-        return answer(root, 1, maxDepth);
+        int maxDepth = getDepth(root);
+        return helper(root, 1, maxDepth);
     }
 };
