@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChVMKiran/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChVMKiran/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Graph
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/ChVMKiran/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChVMKiran/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVMKiran/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
