@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDeletions(string word, int k) {
-        unordered_map<int, int> ump;
+        unordered_map<char, int> ump;
         for(char &ch: word) {
             ump[ch]++;
         }
