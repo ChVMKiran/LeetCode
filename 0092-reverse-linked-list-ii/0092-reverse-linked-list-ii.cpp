@@ -12,14 +12,14 @@ public:
         return start;
     }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        ListNode *start = head, *end = head, *prev = NULL;
+        ListNode* dummy = new ListNode(0, head);
+        ListNode *start = head, *end = head, *prev = dummy;
         while(1) {
             if(--left > 0) prev = start, start = start -> next;
             if(right-- > 0) end = end -> next;
             if(right <= 0 && left <= 0) break;
         }
-        if(prev) prev -> next = reverse(start, end);
-        else head = reverse(start, end);
-        return head;
+        prev -> next = reverse(start, end);
+        return dummy -> next;
     }
 };
