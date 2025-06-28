@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/ChVMKiran/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ChVMKiran/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/ChVMKiran/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/ChVMKiran/LeetCode/tree/master/0120-triangle) |
 | [0413-arithmetic-slices](https://github.com/ChVMKiran/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
