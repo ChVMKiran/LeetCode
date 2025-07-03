@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChVMKiran/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChVMKiran/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChVMKiran/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChVMKiran/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChVMKiran/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ChVMKiran/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChVMKiran/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ChVMKiran/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
