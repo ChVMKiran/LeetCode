@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVMKiran/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ChVMKiran/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ChVMKiran/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ChVMKiran/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ChVMKiran/LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChVMKiran/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ChVMKiran/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/ChVMKiran/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/ChVMKiran/LeetCode/tree/master/3905-partition-string) |
 ## Stack
