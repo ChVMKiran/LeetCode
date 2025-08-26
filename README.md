@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ChVMKiran/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/ChVMKiran/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVMKiran/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ChVMKiran/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/ChVMKiran/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ChVMKiran/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/ChVMKiran/LeetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3905-partition-string](https://github.com/ChVMKiran/LeetCode/tree/master/3905-partition-string) |
 ## Linked List
@@ -602,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
