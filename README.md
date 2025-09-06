@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChVMKiran/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/ChVMKiran/LeetCode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/ChVMKiran/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0047-permutations-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChVMKiran/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ChVMKiran/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVMKiran/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChVMKiran/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ChVMKiran/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ChVMKiran/LeetCode/tree/master/0075-sort-colors) |
