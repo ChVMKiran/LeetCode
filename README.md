@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVMKiran/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1043-grid-illumination](https://github.com/ChVMKiran/LeetCode/tree/master/1043-grid-illumination) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVMKiran/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ChVMKiran/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVMKiran/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/ChVMKiran/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChVMKiran/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
