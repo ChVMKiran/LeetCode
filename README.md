@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVMKiran/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/ChVMKiran/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ChVMKiran/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ChVMKiran/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ChVMKiran/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVMKiran/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ChVMKiran/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVMKiran/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChVMKiran/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ChVMKiran/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
