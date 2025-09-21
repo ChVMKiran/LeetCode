@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1972-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/ChVMKiran/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ChVMKiran/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ChVMKiran/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/ChVMKiran/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/ChVMKiran/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ChVMKiran/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/ChVMKiran/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/ChVMKiran/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/ChVMKiran/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/ChVMKiran/LeetCode/tree/master/3827-implement-router) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ChVMKiran/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2023-design-movie-rental-system](https://github.com/ChVMKiran/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/ChVMKiran/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVMKiran/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3678-design-task-manager](https://github.com/ChVMKiran/LeetCode/tree/master/3678-design-task-manager) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/ChVMKiran/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/ChVMKiran/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/ChVMKiran/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/ChVMKiran/LeetCode/tree/master/3827-implement-router) |
