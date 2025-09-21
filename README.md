@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChVMKiran/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChVMKiran/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ChVMKiran/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ChVMKiran/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
