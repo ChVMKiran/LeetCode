@@ -8,7 +8,8 @@ public:
         int ans = 0;
         while(true) {
             if(!freq[ans % value]) return ans;
-            freq[ans++ % value]--;
+            freq[ans % value]--;
+            ans++;
         }
         return -1;
     }
