@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChVMKiran/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ChVMKiran/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/ChVMKiran/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ChVMKiran/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ChVMKiran/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ChVMKiran/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ChVMKiran/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ChVMKiran/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3430-count-days-without-meetings](https://github.com/ChVMKiran/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVMKiran/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChVMKiran/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
