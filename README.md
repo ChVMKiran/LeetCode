@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChVMKiran/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ChVMKiran/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ChVMKiran/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
