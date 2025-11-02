@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ChVMKiran/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVMKiran/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/ChVMKiran/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/ChVMKiran/LeetCode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ChVMKiran/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/ChVMKiran/LeetCode/tree/master/3447-clear-digits) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChVMKiran/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ChVMKiran/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChVMKiran/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
