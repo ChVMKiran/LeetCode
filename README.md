@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVMKiran/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ChVMKiran/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ChVMKiran/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChVMKiran/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChVMKiran/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ChVMKiran/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ChVMKiran/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ChVMKiran/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ChVMKiran/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVMKiran/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ChVMKiran/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
