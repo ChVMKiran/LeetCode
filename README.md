@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChVMKiran/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0337-house-robber-iii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChVMKiran/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0785-is-graph-bipartite](https://github.com/ChVMKiran/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/ChVMKiran/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ChVMKiran/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/ChVMKiran/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/ChVMKiran/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/ChVMKiran/LeetCode/tree/master/1036-rotting-oranges) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChVMKiran/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0337-house-robber-iii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
