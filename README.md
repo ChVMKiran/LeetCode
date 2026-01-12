@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ChVMKiran/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ChVMKiran/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChVMKiran/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ChVMKiran/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ChVMKiran/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChVMKiran/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ChVMKiran/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
