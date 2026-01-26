@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChVMKiran/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ChVMKiran/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0260-single-number-iii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ChVMKiran/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ChVMKiran/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVMKiran/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ChVMKiran/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ChVMKiran/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ChVMKiran/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
