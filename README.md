@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChVMKiran/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/ChVMKiran/LeetCode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/ChVMKiran/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ChVMKiran/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ChVMKiran/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3430-count-days-without-meetings](https://github.com/ChVMKiran/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ChVMKiran/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/ChVMKiran/LeetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/ChVMKiran/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/ChVMKiran/LeetCode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChVMKiran/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
