@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/ChVMKiran/LeetCode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/ChVMKiran/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ChVMKiran/LeetCode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChVMKiran/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ChVMKiran/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChVMKiran/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ChVMKiran/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3805-count-caesar-cipher-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/ChVMKiran/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ChVMKiran/LeetCode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Backtracking
