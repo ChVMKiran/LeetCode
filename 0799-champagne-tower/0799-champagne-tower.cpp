@@ -9,12 +9,6 @@ public:
                 wine[i + 1][j + 1] += max(0.0, wine[i][j] - 1) / 2.0;
             }
         }
-        for(int i = 0; i <= query_row; i++) {
-            for(int j = 0; j <= i; j++) {
-                cout<<wine[i][j]<<' ';
-            }
-            cout<<'\n';
-        }
         return min(1.0, wine[query_row][query_glass]);
     }
 };
