@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChVMKiran/LeetCode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ChVMKiran/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ChVMKiran/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ChVMKiran/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ChVMKiran/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2169-simple-bank-system](https://github.com/ChVMKiran/LeetCode/tree/master/2169-simple-bank-system) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ChVMKiran/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChVMKiran/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ChVMKiran/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ChVMKiran/LeetCode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ChVMKiran/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0260-single-number-iii) |
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ChVMKiran/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
