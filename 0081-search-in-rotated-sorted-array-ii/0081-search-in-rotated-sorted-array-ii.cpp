@@ -10,7 +10,7 @@ public:
                 h--;
             }
             if(nums[l] <= nums[m]) {
-                if(nums[l] <= target && target <= nums[m]) {
+                if(nums[l] <= target && target < nums[m]) {
                     h = m - 1;
                 }
                 else {
@@ -18,7 +18,7 @@ public:
                 }
             }
             else {
-                if(nums[m] <= target && target <= nums[h]) {
+                if(nums[m] < target && target <= nums[h]) {
                     l = m + 1;
                 }
                 else {
