@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ChVMKiran/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/ChVMKiran/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ChVMKiran/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ChVMKiran/LeetCode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0260-single-number-iii) |
+| [0401-binary-watch](https://github.com/ChVMKiran/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ChVMKiran/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
