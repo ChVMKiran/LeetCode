@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ChVMKiran/LeetCode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/ChVMKiran/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ChVMKiran/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ChVMKiran/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
