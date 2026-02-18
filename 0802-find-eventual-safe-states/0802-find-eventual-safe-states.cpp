@@ -4,7 +4,6 @@ public:
         int n = graph.size();
         vector<vector<int>> adj(n);
         vector<int> outdegree(n);
-        vector<bool> safe(n);
         vector<int> ans;
         queue<int> qu;
         for(int i = 0; i < n; i++) {
@@ -19,7 +18,6 @@ public:
         while(!qu.empty()) {
             int node = qu.front();
             qu.pop();
-            safe[node] = true;
             for(auto& nn: adj[node]) {
                 outdegree[nn]--;
                 if(outdegree[nn] == 0) {
@@ -28,7 +26,7 @@ public:
             }
         }
         for(int i = 0; i < n; i++) {
-            if(safe[i]) ans.push_back(i);
+            if(outdegree[i] == 0) ans.push_back(i);
         }
         return ans;
     }
