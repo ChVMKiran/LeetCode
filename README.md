@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ChVMKiran/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVMKiran/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ChVMKiran/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0948-bag-of-tokens](https://github.com/ChVMKiran/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ChVMKiran/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ChVMKiran/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
 | [0799-champagne-tower](https://github.com/ChVMKiran/LeetCode/tree/master/0799-champagne-tower) |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-bag-of-tokens](https://github.com/ChVMKiran/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/ChVMKiran/LeetCode/tree/master/1095-two-city-scheduling) |
