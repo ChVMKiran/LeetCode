@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0878-nth-magical-number](https://github.com/ChVMKiran/LeetCode/tree/master/0878-nth-magical-number) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ChVMKiran/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVMKiran/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0878-nth-magical-number](https://github.com/ChVMKiran/LeetCode/tree/master/0878-nth-magical-number) |
 | [0907-koko-eating-bananas](https://github.com/ChVMKiran/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVMKiran/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
