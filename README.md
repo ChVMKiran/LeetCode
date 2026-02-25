@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChVMKiran/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ChVMKiran/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChVMKiran/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChVMKiran/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ChVMKiran/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVMKiran/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChVMKiran/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChVMKiran/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChVMKiran/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ChVMKiran/LeetCode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChVMKiran/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ChVMKiran/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ChVMKiran/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ChVMKiran/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/ChVMKiran/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ChVMKiran/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChVMKiran/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ChVMKiran/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVMKiran/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
