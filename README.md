@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3827-implement-router](https://github.com/ChVMKiran/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ChVMKiran/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ChVMKiran/LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Hash Table
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ChVMKiran/LeetCode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Backtracking
 |  |
 | ------- |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ChVMKiran/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ChVMKiran/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Segment Tree
 |  |
 | ------- |
@@ -902,12 +905,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/ChVMKiran/LeetCode/tree/master/3827-implement-router) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Union Find
 |  |
 | ------- |
@@ -973,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1012,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3905-partition-string](https://github.com/ChVMKiran/LeetCode/tree/master/3905-partition-string) |
 ## Linked List
 |  |
