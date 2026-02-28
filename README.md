@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ChVMKiran/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ChVMKiran/LeetCode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ChVMKiran/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ChVMKiran/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ChVMKiran/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ChVMKiran/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChVMKiran/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ChVMKiran/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/0060-permutation-sequence) |
