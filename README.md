@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVMKiran/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVMKiran/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ChVMKiran/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ChVMKiran/LeetCode/tree/master/2211-count-collisions-on-a-road) |
