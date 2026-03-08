@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ChVMKiran/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ChVMKiran/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ChVMKiran/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ChVMKiran/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/ChVMKiran/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ChVMKiran/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChVMKiran/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ChVMKiran/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search Tree
 |  |
