@@ -36,14 +36,18 @@ public:
     
     void put(int key, int value) {
         if(cache.count(key)) {
-            remove(cache[key]);
+            Node* node = cache[key];
+            node->val = value;
+            remove(node);
+            insert(node);
+            return;
         }
         Node* nn = new Node(key, value);
         cache[key] = nn;
-        insert(cache[key]);
+        insert(nn);
         if(cache.size() > cap) {
             Node* lru = start->next;
-            remove(cache[lru->key]);
+            remove(lru);
             cache.erase(lru->key);
             delete lru;
         }
