@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ChVMKiran/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ChVMKiran/LeetCode/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ChVMKiran/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVMKiran/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ChVMKiran/LeetCode/tree/master/1036-rotting-oranges) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ChVMKiran/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ChVMKiran/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChVMKiran/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ChVMKiran/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/ChVMKiran/LeetCode/tree/master/0480-sliding-window-median) |
 | [0940-fruit-into-baskets](https://github.com/ChVMKiran/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ChVMKiran/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVMKiran/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChVMKiran/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChVMKiran/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ChVMKiran/LeetCode/tree/master/0868-binary-gap) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ChVMKiran/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1009-complement-of-base-10-integer](https://github.com/ChVMKiran/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChVMKiran/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ChVMKiran/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -956,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ChVMKiran/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/ChVMKiran/LeetCode/tree/master/3827-implement-router) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
