@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ChVMKiran/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ChVMKiran/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ChVMKiran/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChVMKiran/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ChVMKiran/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/ChVMKiran/LeetCode/tree/master/0190-reverse-bits) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/ChVMKiran/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChVMKiran/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ChVMKiran/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -1177,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ChVMKiran/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
