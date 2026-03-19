@@ -12,7 +12,7 @@ public:
             minHeap.push(maxHeap.top());
             maxHeap.pop();
         }
-        while(minHeap.size() && maxHeap.top() > minHeap.top()) {
+        if(minHeap.size() && maxHeap.top() > minHeap.top()) {
             minHeap.push(maxHeap.top());
             maxHeap.push(minHeap.top());
             minHeap.pop();
