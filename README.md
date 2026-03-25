@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChVMKiran/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChVMKiran/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3531-count-covered-buildings](https://github.com/ChVMKiran/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ChVMKiran/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ChVMKiran/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChVMKiran/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ChVMKiran/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ChVMKiran/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ChVMKiran/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/ChVMKiran/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ChVMKiran/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ChVMKiran/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ChVMKiran/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ChVMKiran/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ChVMKiran/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChVMKiran/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChVMKiran/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ChVMKiran/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3713-longest-balanced-substring-i](https://github.com/ChVMKiran/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Monotonic Stack
