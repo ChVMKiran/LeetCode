@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/ChVMKiran/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2487-optimal-partition-of-string](https://github.com/ChVMKiran/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ChVMKiran/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChVMKiran/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChVMKiran/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
