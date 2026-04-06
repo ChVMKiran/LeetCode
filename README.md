@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ChVMKiran/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ChVMKiran/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChVMKiran/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ChVMKiran/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/ChVMKiran/LeetCode/tree/master/0224-basic-calculator) |
