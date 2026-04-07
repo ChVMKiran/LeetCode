@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/ChVMKiran/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/ChVMKiran/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/ChVMKiran/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ChVMKiran/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ChVMKiran/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/ChVMKiran/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ChVMKiran/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
