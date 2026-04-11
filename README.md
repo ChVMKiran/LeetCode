@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVMKiran/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ChVMKiran/LeetCode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ChVMKiran/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ChVMKiran/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ChVMKiran/LeetCode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChVMKiran/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3827-implement-router](https://github.com/ChVMKiran/LeetCode/tree/master/3827-implement-router) |
