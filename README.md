@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ChVMKiran/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChVMKiran/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ChVMKiran/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChVMKiran/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/ChVMKiran/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChVMKiran/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
