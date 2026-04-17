@@ -2,18 +2,20 @@ class Solution {
 public:
     int lcs(string &s, string &t) {
         int m = s.size(), n = t.size();
-        vector<vector<int>> dp(m + 1, vector<int> (n + 1));
+        vector<int> dp(n + 1);
         for(int i = 0; i < m; i++) {
+            vector<int> ndp(n + 1);
             for(int j = 0; j < n; j++) {
                 if(s[i] == t[j]) {
-                    dp[i + 1][j + 1] = dp[i][j] + 1;
+                    ndp[j + 1] = dp[j] + 1;
                 }
                 else {
-                    dp[i + 1][j + 1] = max(dp[i][j + 1], dp[i + 1][j]);
+                    ndp[j + 1] = max(dp[j + 1], ndp[j]);
                 }
             }
+            dp = ndp;
         }
-        return dp[m][n];
+        return dp[n];
     }
     int longestPalindromeSubseq(string &s) {
         string t = s;
