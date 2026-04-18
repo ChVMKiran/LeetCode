@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ChVMKiran/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ChVMKiran/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ChVMKiran/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ChVMKiran/LeetCode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/ChVMKiran/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ChVMKiran/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChVMKiran/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ChVMKiran/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ChVMKiran/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ChVMKiran/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ChVMKiran/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ChVMKiran/LeetCode/tree/master/0072-edit-distance) |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ChVMKiran/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ChVMKiran/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ChVMKiran/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ChVMKiran/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0229-majority-element-ii) |
