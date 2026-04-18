@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVMKiran/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ChVMKiran/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ChVMKiran/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ChVMKiran/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ChVMKiran/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ChVMKiran/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChVMKiran/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ChVMKiran/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ChVMKiran/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/ChVMKiran/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ChVMKiran/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
