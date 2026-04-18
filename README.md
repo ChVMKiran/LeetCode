@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/ChVMKiran/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ChVMKiran/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3805-count-caesar-cipher-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Data Stream
 |  |
