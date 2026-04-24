@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChVMKiran/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChVMKiran/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/ChVMKiran/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ChVMKiran/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChVMKiran/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/ChVMKiran/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ChVMKiran/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ChVMKiran/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2833-furthest-point-from-origin](https://github.com/ChVMKiran/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ChVMKiran/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
