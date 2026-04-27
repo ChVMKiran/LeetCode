@@ -1,19 +1,16 @@
 class UnionFind {
 public:
-    vector<int> parent, rank;
+    vector<int> parent;
     UnionFind(int n) {
         parent.resize(n);
         iota(parent.begin(), parent.end(), 0);
-        rank.resize(n, 0);
+        // rank.resize(n, 0);
     }
     void unite(int a, int b) {
-        // cout<<a<<' '<<b<<endl;
         a = find(a);
         b = find(b);
         if(a == b) return;
-        if(rank[a] < rank[b]) parent[a] = b;
-        else parent[b] = a;
-        if(rank[a] == rank[b]) rank[a]++;
+        parent[b] = a;
     }
     int find(int a) {
         if(parent[a] != a) parent[a] = find(parent[a]);
@@ -21,7 +18,6 @@ public:
     }
     ~UnionFind() {
         parent.resize(0);
-        rank.resize(0);
     }
 };
 class Solution {
@@ -63,8 +59,6 @@ public:
                 }
             }
         }
-        // cout<<uf.find(0);
-        // cout<<uf.find(m * n - 1);
         return uf.find(0) == uf.find(m * n - 1);
     }
 };
