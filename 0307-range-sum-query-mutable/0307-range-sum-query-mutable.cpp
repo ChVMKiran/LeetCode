@@ -1,13 +1,15 @@
 class SegmentTree {
-public:
     vector<int> nums, tree;
     int n;
+
+public:
     SegmentTree(vector<int>& arr) {
         nums = arr;
         n = arr.size();
         tree.resize(4 * n);
         build(0, 0, n - 1);
     }
+
     void build(int node, int start, int end) {
         if(start == end) {
             tree[node] = nums[start];
@@ -18,6 +20,7 @@ public:
         build(node * 2 + 2, mid + 1, end);
         tree[node] = tree[node * 2 + 1] + tree[node * 2 + 2];
     }
+    
     int query(int node, int start, int end, int l, int r) {
         if(r < start || l > end) return 0;
         if(l <= start && end <= r) return tree[node];
@@ -26,6 +29,7 @@ public:
         int rightSum = query(node * 2 + 2, mid + 1, end, l, r);
         return leftSum + rightSum;
     }
+
     void update(int node, int start, int end, int ind, int val) {
         if(start == end) {
             nums[ind] = val;
@@ -42,10 +46,7 @@ class NumArray {
 public:
     SegmentTree st;
     int n;
-    NumArray(vector<int>& nums) : st(nums) {
-        st = SegmentTree(nums);
-        n = nums.size();
-    }
+    NumArray(vector<int>& nums) : st(nums), n(nums.size()) {}
     
     void update(int index, int val) {
         st.update(0, 0, n - 1, index, val);
@@ -55,10 +56,3 @@ public:
         return st.query(0, 0, n - 1, left, right);
     }
 };
-
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray* obj = new NumArray(nums);
- * obj->update(index,val);
- * int param_2 = obj->sumRange(left,right);
- */
