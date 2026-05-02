@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChVMKiran/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/ChVMKiran/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0878-nth-magical-number](https://github.com/ChVMKiran/LeetCode/tree/master/0878-nth-magical-number) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ChVMKiran/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
+| [0788-rotated-digits](https://github.com/ChVMKiran/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ChVMKiran/LeetCode/tree/master/0799-champagne-tower) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
