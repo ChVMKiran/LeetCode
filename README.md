@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/ChVMKiran/LeetCode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
 | [1041-robot-bounded-in-circle](https://github.com/ChVMKiran/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/ChVMKiran/LeetCode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/ChVMKiran/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
