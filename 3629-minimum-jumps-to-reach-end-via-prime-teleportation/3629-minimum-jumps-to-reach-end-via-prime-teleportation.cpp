@@ -4,46 +4,47 @@ public:
         int n = nums.size(), maxi = *max_element(nums.begin(), nums.end());
         vector<bool> isPrime(maxi + 1, true);
         isPrime[0] = isPrime[1] = false;
-        for(int i = 2; i <= maxi; i++) {
+        for(int i = 2; i * i <= maxi; i++) {
             if(isPrime[i]) {
-                for(int j = i + i; j <= maxi; j += i) {
+                for(int j = i * i; j <= maxi; j += i) {
                     isPrime[j] = false;
                 }
             }
         }
-        unordered_map<int, vector<int>> ump;
+        vector<vector<int>> ump(maxi + 1);
         for(int i = 0; i < n; i++) {
             ump[nums[i]].push_back(i);
         }
         queue<pair<int, int>> qu;
-        vector<int> jumps(n, -1);
+        vector<bool> vis(n);
         qu.push({0, 0});
-        jumps[0] = 0;
+        vis[0] = true;
         while(!qu.empty()) {
             auto [i, t] = qu.front();
             qu.pop();
-            if(i > 0 && jumps[i - 1] == -1) {
-                jumps[i - 1] = t + 1;
+            if(i > 0 && !vis[i - 1]) {
+                vis[i - 1] = true;
                 qu.push({i - 1, t + 1});
             }
-            if(i < n - 1 && jumps[i + 1] == -1) {
-                if(i == n - 1) return t + 1;
-                jumps[i + 1] = t + 1;
+            if(i < n - 1 && !vis[i + 1]) {
+                if(i + 1 == n - 1) return t + 1;
+                vis[i + 1] = true;
                 qu.push({i + 1, t + 1});
             }
             if(isPrime[nums[i]]) {
                 for(int j = nums[i]; j <= maxi; j += nums[i]) {
                     for(auto& a: ump[j]) {
-                        if(jumps[a] == -1) {
+                        if(!vis[a]) {
                             if(a == n - 1) return t + 1;
-                            jumps[a] = t + 1;
+                            vis[a] = true;
                             qu.push({a, t + 1});
                         }
                     }
+                    ump[j].clear();
                 }
                 isPrime[nums[i]] = false;
             }
         }
-        return jumps[n - 1];
+        return 0;
     }
 };
