@@ -1,10 +1,13 @@
 class Solution {
 public:
     int minJumps(vector<int>& nums) {
-        int n = nums.size(), maxi = *max_element(nums.begin(), nums.end());
+        int n = nums.size();
+        if(n == 1) return 0;
+        int maxi = *max_element(nums.begin(), nums.end());
         vector<bool> isPrime(maxi + 1, true);
         isPrime[0] = isPrime[1] = false;
-        for(int i = 2; i * i <= maxi; i++) {
+        for(int i = 4; i <= maxi; i += 2) isPrime[i] = 0;
+        for(int i = 3; i * i <= maxi; i += 2) {
             if(isPrime[i]) {
                 for(int j = i * i; j <= maxi; j += i) {
                     isPrime[j] = false;
@@ -33,7 +36,7 @@ public:
             }
             if(isPrime[nums[i]]) {
                 for(int j = nums[i]; j <= maxi; j += nums[i]) {
-                    for(auto& a: ump[j]) {
+                    for(int a: ump[j]) {
                         if(!vis[a]) {
                             if(a == n - 1) return t + 1;
                             vis[a] = true;
