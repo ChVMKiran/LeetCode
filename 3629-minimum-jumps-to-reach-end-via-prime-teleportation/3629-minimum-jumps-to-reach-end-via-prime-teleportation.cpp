@@ -27,6 +27,7 @@ public:
                 qu.push({i - 1, t + 1});
             }
             if(i < n - 1 && jumps[i + 1] == -1) {
+                if(i == n - 1) return t + 1;
                 jumps[i + 1] = t + 1;
                 qu.push({i + 1, t + 1});
             }
@@ -34,6 +35,7 @@ public:
                 for(int j = nums[i]; j <= maxi; j += nums[i]) {
                     for(auto& a: ump[j]) {
                         if(jumps[a] == -1) {
+                            if(a == n - 1) return t + 1;
                             jumps[a] = t + 1;
                             qu.push({a, t + 1});
                         }
