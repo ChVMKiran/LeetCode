@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ChVMKiran/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/ChVMKiran/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChVMKiran/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/ChVMKiran/LeetCode/tree/master/2615-sum-of-distances) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/ChVMKiran/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChVMKiran/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/ChVMKiran/LeetCode/tree/master/3379-transformed-array) |
