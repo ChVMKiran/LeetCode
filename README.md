@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ChVMKiran/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2784-check-if-array-is-good](https://github.com/ChVMKiran/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVMKiran/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChVMKiran/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ChVMKiran/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/ChVMKiran/LeetCode/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/ChVMKiran/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVMKiran/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVMKiran/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-minimum-sum-of-squared-difference](https://github.com/ChVMKiran/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVMKiran/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ChVMKiran/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2784-check-if-array-is-good](https://github.com/ChVMKiran/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVMKiran/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
