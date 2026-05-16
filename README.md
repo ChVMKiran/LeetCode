@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChVMKiran/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/ChVMKiran/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ChVMKiran/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ChVMKiran/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ChVMKiran/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ChVMKiran/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ChVMKiran/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ChVMKiran/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/ChVMKiran/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ChVMKiran/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ChVMKiran/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ChVMKiran/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ChVMKiran/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChVMKiran/LeetCode/tree/master/0207-course-schedule) |
