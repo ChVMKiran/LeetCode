@@ -59,7 +59,6 @@ public:
         RollingHash rh(nums);
         int n = nums.size(), l = 1, h = n;
         while(l < h) {
-            cout<<l<<' '<<h<<endl;
             int m = l + (h - l) / 2;
             if(helper(rh, m, n)) h = m;
             else l = m + 1;
