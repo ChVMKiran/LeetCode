@@ -10,7 +10,6 @@ public:
         vis[0] = true;
         while(!qu.empty()) {
             auto [ind, cnt] = qu.front();
-            // cout<<ind<<' ';
             if(ind == n - 1) return cnt;
             qu.pop();
             if(ind > 0 && !vis[ind - 1]) {
@@ -26,7 +25,7 @@ public:
                 qu.push({i, cnt + 1});
                 vis[i] = true;
             }
-            ump.erase(arr[ind]);
+            ump[arr[ind]].clear();
         }
         return 0;
     }
