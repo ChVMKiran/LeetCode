@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChVMKiran/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ChVMKiran/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/ChVMKiran/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ChVMKiran/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1386-cinema-seat-allocation](https://github.com/ChVMKiran/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ChVMKiran/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVMKiran/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1345-jump-game-iv](https://github.com/ChVMKiran/LeetCode/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/ChVMKiran/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1386-cinema-seat-allocation](https://github.com/ChVMKiran/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVMKiran/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/ChVMKiran/LeetCode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVMKiran/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
