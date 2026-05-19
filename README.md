@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ChVMKiran/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/ChVMKiran/LeetCode/tree/master/0480-sliding-window-median) |
+| [0743-network-delay-time](https://github.com/ChVMKiran/LeetCode/tree/master/0743-network-delay-time) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ChVMKiran/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ChVMKiran/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1612-avoid-flood-in-the-city](https://github.com/ChVMKiran/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ChVMKiran/LeetCode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChVMKiran/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/ChVMKiran/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ChVMKiran/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ChVMKiran/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ChVMKiran/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ChVMKiran/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0542-01-matrix) |
+| [0743-network-delay-time](https://github.com/ChVMKiran/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ChVMKiran/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ChVMKiran/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ChVMKiran/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1332,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ChVMKiran/LeetCode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/ChVMKiran/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ChVMKiran/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChVMKiran/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -1340,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ChVMKiran/LeetCode/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChVMKiran/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ChVMKiran/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Indexed Tree
