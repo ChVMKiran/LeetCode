@@ -11,6 +11,12 @@ public:
             len = INT_MAX;
             fill(next, next + 26, nullptr);
         }
+
+        ~Trie() {
+            for(int i = 0; i < 26; i++) {
+                delete next[i];
+            }
+        }
     };
 
     Trie* root = new Trie();
@@ -63,5 +69,9 @@ public:
             ans[i] = search(wordsQuery[i]);
         }
         return ans;
+    }
+
+    ~Solution() {
+        delete root;
     }
 };
