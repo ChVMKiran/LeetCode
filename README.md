@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1041-robot-bounded-in-circle](https://github.com/ChVMKiran/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ChVMKiran/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ChVMKiran/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ChVMKiran/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ChVMKiran/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ChVMKiran/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ChVMKiran/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChVMKiran/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChVMKiran/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1231,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChVMKiran/LeetCode/tree/master/0062-unique-paths) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ChVMKiran/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChVMKiran/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
