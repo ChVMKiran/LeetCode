@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ChVMKiran/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ChVMKiran/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3194-find-words-containing-character](https://github.com/ChVMKiran/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ChVMKiran/LeetCode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChVMKiran/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3161-block-placement-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ChVMKiran/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -1395,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ChVMKiran/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3161-block-placement-queries) |
 ## Merge Sort
 |  |
 | ------- |
