@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-transform-array-to-all-equal-elements](https://github.com/ChVMKiran/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ChVMKiran/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ChVMKiran/LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ChVMKiran/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/ChVMKiran/LeetCode/tree/master/3678-design-task-manager) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ChVMKiran/LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1377,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChVMKiran/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ChVMKiran/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChVMKiran/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ChVMKiran/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3928-minimum-cost-to-buy-apples-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
