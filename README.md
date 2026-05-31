@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ChVMKiran/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ChVMKiran/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ChVMKiran/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1972-rotating-the-box) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ChVMKiran/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2169-simple-bank-system](https://github.com/ChVMKiran/LeetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/ChVMKiran/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ChVMKiran/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ChVMKiran/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ChVMKiran/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ChVMKiran/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1975-maximum-matrix-sum) |
