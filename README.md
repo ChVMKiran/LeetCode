@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/ChVMKiran/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0853-car-fleet](https://github.com/ChVMKiran/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/ChVMKiran/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/ChVMKiran/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ChVMKiran/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/ChVMKiran/LeetCode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0853-car-fleet](https://github.com/ChVMKiran/LeetCode/tree/master/0853-car-fleet) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ChVMKiran/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ChVMKiran/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ChVMKiran/LeetCode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/0761-special-binary-string) |
+| [0853-car-fleet](https://github.com/ChVMKiran/LeetCode/tree/master/0853-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/ChVMKiran/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-bag-of-tokens](https://github.com/ChVMKiran/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/ChVMKiran/LeetCode/tree/master/1095-two-city-scheduling) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChVMKiran/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/ChVMKiran/LeetCode/tree/master/0853-car-fleet) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ChVMKiran/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ChVMKiran/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search Tree
