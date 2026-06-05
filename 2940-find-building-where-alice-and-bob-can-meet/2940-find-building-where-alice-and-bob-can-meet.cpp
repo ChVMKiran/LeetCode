@@ -1,15 +1,15 @@
 class Solution {
 public:
     vector<int> segTree;
-    void build(vector<int>& arr, int l, int r, int i) {
+    void build(vector<int>& heights, int l, int r, int i) {
         if(l == r) {
             segTree[i] = l;
             return;
         }
         int m = l + (r - l) / 2;
-        build(arr, l, m, 2 * i + 1);
-        build(arr, m + 1, r, 2 * i + 2);
-        if(arr[segTree[2 * i + 1]] >= arr[segTree[2 * i + 2]]) segTree[i] = segTree[2 * i + 1];
+        build(heights, l, m, 2 * i + 1);
+        build(heights, m + 1, r, 2 * i + 2);
+        if(heights[segTree[2 * i + 1]] >= heights[segTree[2 * i + 2]]) segTree[i] = segTree[2 * i + 1];
         else segTree[i] = segTree[2 * i + 2];
     }
     int query(vector<int>& heights, int start, int end, int l, int r, int i) {
@@ -24,19 +24,20 @@ public:
         return right;
     }
     vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
-        int n = heights.size();
-        vector<int> res;
+        int n = heights.size(), m = queries.size();
+        vector<int> res(m);
         segTree.resize(4 * n);
         build(heights, 0, n - 1, 0);
-        for(auto& q: queries) {
+        for(int i = 0; i < m; i++) {
+            auto &q = queries[i];
             if(q[0] == q[1]) {
-                res.push_back(q[1]);
+                res[i] = q[1];
                 continue;
             }
             else {
-                auto [i, j] = minmax(q[0], q[1]);
-                if(heights[i] < heights[j]) {
-                    res.push_back(j);
+                auto [j, k] = minmax(q[0], q[1]);
+                if(heights[j] < heights[k]) {
+                    res[i] = k;
                     continue;
                 }
             }
@@ -44,10 +45,10 @@ public:
             while(l <= r) {
                 int m = l + (r - l) / 2;
                 int ind = query(heights, 0, n - 1, l, m, 0);
-                if(ind == -1 || heights[ind] <= heights[q[0]] || heights[ind] <= heights[q[1]]) l = m + 1;
+                if(heights[ind] <= heights[q[0]] || heights[ind] <= heights[q[1]]) l = m + 1;
                 else ans = ind, r = m - 1;
             }
-            res.push_back(ans);
+            res[i] = ans;
         }
         return res;
     }
