@@ -985,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChVMKiran/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3791-number-of-balanced-integers-in-a-range](https://github.com/ChVMKiran/LeetCode/tree/master/3791-number-of-balanced-integers-in-a-range) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ChVMKiran/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Two Pointers
 |  |
