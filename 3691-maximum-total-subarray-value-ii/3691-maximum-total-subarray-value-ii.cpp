@@ -32,7 +32,6 @@ public:
         }
         while(k--) {
             auto [val, l, r] = pq.top();
-            cout<<val<<l<<r<<endl;
             pq.pop();
             ans += val;
             if(l < r) {
