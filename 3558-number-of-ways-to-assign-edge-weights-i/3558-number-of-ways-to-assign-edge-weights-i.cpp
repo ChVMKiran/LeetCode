@@ -1,7 +1,7 @@
 class Solution {
 public:
     int assignEdgeWeights(vector<vector<int>>& edges) {
-        int n = edges.size() + 1, mod = 1e9 + 7, maxi = 0;
+        int n = edges.size() + 1, mod = 1e9 + 7, maxi = 1;
         long ans = 1;
         vector<vector<int>> adj(n + 1);
         for(auto& e: edges) {
@@ -15,7 +15,11 @@ public:
         while(!qu.empty()) {
             auto [node, height] = qu.front();
             // cout<<node<<' '<<height<<endl;
-            maxi = max(maxi, height);
+            if(maxi < height) {
+                ans <<= 1;
+                ans %= mod;
+                maxi = height;
+            }
             qu.pop();
             for(int& nn: adj[node]) {
                 if(!vis[nn]) {
@@ -23,10 +27,6 @@ public:
                     qu.push({nn, height + 1});
                 }
             }
-        }
-        while(--maxi) {
-            ans <<= 1;
-            ans %= mod;
         }
         return ans;
     }
