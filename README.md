@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/ChVMKiran/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ChVMKiran/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChVMKiran/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ChVMKiran/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ChVMKiran/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ChVMKiran/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ChVMKiran/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ChVMKiran/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ChVMKiran/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
