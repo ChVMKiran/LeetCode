@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ChVMKiran/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ChVMKiran/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChVMKiran/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChVMKiran/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ChVMKiran/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ChVMKiran/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ChVMKiran/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChVMKiran/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChVMKiran/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVMKiran/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ChVMKiran/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -1477,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChVMKiran/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ChVMKiran/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ChVMKiran/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChVMKiran/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChVMKiran/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1515,4 +1518,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChVMKiran/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ChVMKiran/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChVMKiran/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
