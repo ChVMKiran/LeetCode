@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChVMKiran/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3531-count-covered-buildings](https://github.com/ChVMKiran/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChVMKiran/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ChVMKiran/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ChVMKiran/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ChVMKiran/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChVMKiran/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ChVMKiran/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChVMKiran/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/ChVMKiran/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1067,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ChVMKiran/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ChVMKiran/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1167,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChVMKiran/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/ChVMKiran/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ChVMKiran/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1245,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChVMKiran/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ChVMKiran/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/ChVMKiran/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -1323,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/ChVMKiran/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/ChVMKiran/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ChVMKiran/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ChVMKiran/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1493,6 +1500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3123-find-edges-in-shortest-paths](https://github.com/ChVMKiran/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChVMKiran/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ChVMKiran/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ChVMKiran/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3928-minimum-cost-to-buy-apples-ii) |
