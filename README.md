@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ChVMKiran/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChVMKiran/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChVMKiran/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3531-count-covered-buildings](https://github.com/ChVMKiran/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChVMKiran/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ChVMKiran/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChVMKiran/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1238,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/0493-reverse-pairs) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ChVMKiran/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
