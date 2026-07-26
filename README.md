@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVMKiran/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/ChVMKiran/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/ChVMKiran/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChVMKiran/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ChVMKiran/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/ChVMKiran/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ChVMKiran/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ChVMKiran/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/ChVMKiran/LeetCode/tree/master/0853-car-fleet) |
