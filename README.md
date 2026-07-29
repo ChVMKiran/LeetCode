@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ChVMKiran/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/ChVMKiran/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ChVMKiran/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ChVMKiran/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ChVMKiran/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ChVMKiran/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ChVMKiran/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ChVMKiran/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/ChVMKiran/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ChVMKiran/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ChVMKiran/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ChVMKiran/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ChVMKiran/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1387,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/ChVMKiran/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ChVMKiran/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChVMKiran/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
