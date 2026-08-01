@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/ChVMKiran/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/ChVMKiran/LeetCode/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/ChVMKiran/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/ChVMKiran/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0518-coin-change-ii) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChVMKiran/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/ChVMKiran/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ChVMKiran/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ChVMKiran/LeetCode/tree/master/0788-rotated-digits) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ChVMKiran/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ChVMKiran/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/ChVMKiran/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ChVMKiran/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVMKiran/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ChVMKiran/LeetCode/tree/master/0542-01-matrix) |
@@ -1472,10 +1475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ChVMKiran/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ChVMKiran/LeetCode/tree/master/0224-basic-calculator) |
 | [0390-elimination-game](https://github.com/ChVMKiran/LeetCode/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/ChVMKiran/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ChVMKiran/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ChVMKiran/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
