@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChVMKiran/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ChVMKiran/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ChVMKiran/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1776-car-fleet-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1776-car-fleet-ii) |
 | [1840-maximum-building-height](https://github.com/ChVMKiran/LeetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ChVMKiran/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChVMKiran/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChVMKiran/LeetCode/tree/master/2029-stone-game-ix) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ChVMKiran/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVMKiran/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ChVMKiran/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ChVMKiran/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ChVMKiran/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVMKiran/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1080,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ChVMKiran/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVMKiran/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ChVMKiran/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChVMKiran/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChVMKiran/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -1534,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ChVMKiran/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ChVMKiran/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ChVMKiran/LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ChVMKiran/LeetCode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
@@ -1649,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ChVMKiran/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ChVMKiran/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1656,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ChVMKiran/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ChVMKiran/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ChVMKiran/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
