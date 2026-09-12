@@ -6,18 +6,19 @@ public:
     };
     vector<vector<Node>> dp;
     int search(vector<vector<int>>& vec, int r) {
-        int lo = 0, hi = vec.size() - 1;
-        int result = hi + 1;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
+        int low = 0, high = vec.size() - 1;
+        int res = high + 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
             if (vec[mid][0] > r) {
-                result = mid;
-                hi = mid - 1;
-            } else {
-                lo = mid + 1;
+                res = mid;
+                high = mid - 1;
+            } 
+            else {
+                low = mid + 1;
             }
         }
-        return result;
+        return res;
     }
     Node helper(int cnt, vector<vector<int>>& vec, int i) {
         if(i == vec.size() || cnt == 4) return {0, {}};
