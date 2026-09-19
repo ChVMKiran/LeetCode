@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChVMKiran/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/ChVMKiran/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ChVMKiran/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ChVMKiran/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ChVMKiran/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ChVMKiran/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1570,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChVMKiran/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ChVMKiran/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ChVMKiran/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ChVMKiran/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
