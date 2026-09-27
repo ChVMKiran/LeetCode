@@ -10,8 +10,7 @@ public:
                 i++;
                 string key;
                 while(s[i] != ')') key += s[i++];
-                auto it = ump.find(key);
-                if(it != ump.end()) res += it->second;
+                if(ump.count(key)) res += ump[key];
                 else res += '?';
             }
             else res += s[i];
