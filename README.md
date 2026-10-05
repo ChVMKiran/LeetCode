@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/ChVMKiran/LeetCode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/ChVMKiran/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/ChVMKiran/LeetCode/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/ChVMKiran/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ChVMKiran/LeetCode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/ChVMKiran/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0853-car-fleet](https://github.com/ChVMKiran/LeetCode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ChVMKiran/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ChVMKiran/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1712,5 +1714,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChVMKiran/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
