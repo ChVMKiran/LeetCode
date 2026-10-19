@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChVMKiran/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChVMKiran/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ChVMKiran/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ChVMKiran/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/ChVMKiran/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChVMKiran/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChVMKiran/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ChVMKiran/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChVMKiran/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ChVMKiran/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ChVMKiran/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ChVMKiran/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVMKiran/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ChVMKiran/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ChVMKiran/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ChVMKiran/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ChVMKiran/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/ChVMKiran/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ChVMKiran/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
