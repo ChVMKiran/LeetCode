@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ChVMKiran/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3805-count-caesar-cipher-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/ChVMKiran/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/ChVMKiran/LeetCode/tree/master/3905-partition-string) |
 ## Stack
