@@ -1,7 +1,8 @@
 class Solution {
 public:
-    bool helper(int x, int y, vector<vector<int>>& grid, vector<vector<bool>>& vis) {
-        int m = grid.size(), n = grid[0].size();
+    vector<vector<bool>> vis;
+    int m, n;
+    bool helper(int x, int y, vector<vector<int>>& grid) {
         queue<pair<int, int>> q;
         q.push({x, y});
         vis[x][y] = 2;
@@ -26,13 +27,12 @@ public:
         return flag;
     }
     int closedIsland(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        vector<vector<bool>> vis(m, vector<bool>(n));
+        m = grid.size(), n = grid[0].size();
+        vis.assign(m, vector<bool>(n));
         int ans = 0;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0 && !vis[i][j] && helper(i, j, grid, vis)) {
+                if (grid[i][j] == 0 && !vis[i][j] && helper(i, j, grid)) {
                     ans++;
                 }
             }
