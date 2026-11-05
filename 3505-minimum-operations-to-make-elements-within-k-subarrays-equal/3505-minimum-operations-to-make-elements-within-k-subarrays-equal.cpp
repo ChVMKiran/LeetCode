@@ -1,27 +1,13 @@
 class Solution {
 public:
-    long long dp[100001][16], cost[100001];
-    int n, x;
-    long long helper(int i, int c) {
-        if(c == 0) return 0;
-        if(i >= n) return 1e16;
-
-        if(dp[i][c] != -1) return dp[i][c];
-
-        int last = i + c * x - 1;
-        if(last >= n) return dp[i][c] = 1e16;
-
-        long long take = cost[i] + helper(i + x, c - 1);
-        long long skip = helper(i + 1, c);
-
-        return dp[i][c] = min(take, skip);
-    }
-    long long minOperations(vector<int>& nums, int X, int k) {
-        memset(dp, -1, sizeof(dp));
-        n = nums.size(), x = X;
+    long long minOperations(vector<int>& nums, int x, int k) {
+        const long long INF = 1e16;
+        int n = nums.size();
+        long long dp[100001][16], cost[100001];
 
         multiset<int> left, right;
         long long leftSum = 0, rightSum = 0;
+
         for(int i = 0; i < n; i++) {
             if(i >= x) {
                 if(left.find(nums[i - x]) != left.end()) {
@@ -60,6 +46,24 @@ public:
                 cost[i - x + 1] = (median * left.size() - leftSum) + (rightSum - median * right.size());
             }
         }
-        return helper(0, k);
+
+        for(int i = 0; i <= n; i++) {
+            for(int j = 1; j <= k; j++) {
+                dp[i][j] = INF;
+            }
+            dp[i][0] = 0;
+        }
+
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= k; j++) {
+                long long skip = dp[i - 1][j], take = INF;
+                if(i >= x) {
+                    take = cost[i - x] + dp[i - x][j - 1];
+                }
+                dp[i][j] = min(skip, take);
+            }
+        }
+
+        return dp[n][k];
     }
 };
