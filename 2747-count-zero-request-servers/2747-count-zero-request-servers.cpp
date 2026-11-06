@@ -12,7 +12,7 @@ public:
             return log1[1] < log2[1];
         });
         int l = logs.size(), i = 0, j = 0, cnt = 0;
-        vector<int> ump(n + 1);
+        int ump[100001]{};
         for(int k = 0; k < m; k++) {
             int st = q[k][0] - x, end = q[k][0];
             while(i < l && logs[i][1] < st) {
