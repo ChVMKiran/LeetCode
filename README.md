@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ChVMKiran/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ChVMKiran/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/ChVMKiran/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ChVMKiran/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/ChVMKiran/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVMKiran/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChVMKiran/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ChVMKiran/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVMKiran/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/ChVMKiran/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ChVMKiran/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVMKiran/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1354,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ChVMKiran/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVMKiran/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ChVMKiran/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2747-count-zero-request-servers](https://github.com/ChVMKiran/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChVMKiran/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ChVMKiran/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-minimum-sum-of-squared-difference](https://github.com/ChVMKiran/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVMKiran/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ChVMKiran/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2747-count-zero-request-servers](https://github.com/ChVMKiran/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ChVMKiran/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ChVMKiran/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/ChVMKiran/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
