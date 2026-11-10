@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVMKiran/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/ChVMKiran/LeetCode/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChVMKiran/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/ChVMKiran/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ChVMKiran/LeetCode/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/ChVMKiran/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChVMKiran/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3660-jump-game-ix](https://github.com/ChVMKiran/LeetCode/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ChVMKiran/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ChVMKiran/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ChVMKiran/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
